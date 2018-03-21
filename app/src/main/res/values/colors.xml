@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#0090a4ae</color>
+    <color name="colorPrimaryDark">#455A64</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="tab_checked">#F3CD70 </color>
+    <color name="tab_unchecked">#FFFFFF </color>
+    <color name="bnv_color">#151e3f </color>
 </resources>
