@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);// Setting/replace toolbar as the ActionBar
         toolbar.setLogo(R.drawable.ic_more_horiz_white_24dp);
 
-
     }
 
     @Override
